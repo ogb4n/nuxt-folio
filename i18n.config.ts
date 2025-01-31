@@ -4,11 +4,15 @@ export default defineI18nConfig(() => ({
     messages: {
         en: {
           welcome: 'Welcome',
-          contact: 'Get in touch'
+          contact: 'Get in touch',
+          work: "My past missions"
+          
         },
         fr: {
           welcome: 'Bienvenue',
-          contact: 'Contactez-nous'
+          contact: 'Contactez-nous',
+          work: "Mes missions passées"
+
         }
       }
   }))
