@@ -12,7 +12,7 @@ export default defineI18nConfig(() => ({
       welcome: "Bienvenue",
       contact: "Contactez-nous",
       work: "Mes missions passées",
-      projects: "",
+      projects: "Mes projets personnels",
     },
   },
 }));

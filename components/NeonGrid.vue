@@ -1,6 +1,6 @@
 <template>
   <div
-    class="absolute inset-0 [background-image:linear-gradient(hotpink_1px,transparent_1px),linear-gradient(90deg,hotpink_1px,transparent_1px)] [background-size:40px_40px] animate-diagonal-roll"
+    class="absolute inset-0 [background-image:linear-gradient(hotpink_0.3px,transparent_1px),linear-gradient(90deg,hotpink_1px,transparent_1px)] [background-size:20px_20px] animate-diagonal-roll"
   ></div>
 </template>
 
